@@ -8,8 +8,7 @@
 
 ### 👨‍🎓 About Me
 
-I am a highly motivated **Master of Science in Data Science** student at the **University of Michigan, Dearborn**, with a GPA of 3.90. I specialize in **data analytics**, **machine learning**, **cloud platforms**, and **ETL processes**, with a passion for leveraging data to solve complex problems.
-
+I am a dedicated data science professional, currently enriching my expertise with a Master of Science in Data Science from the University of Michigan-Dearborn. With a rich background of 4 years at Accenture, I've led analytical initiatives and executed complex data projects, demonstrating proficiency in database management, data analytics, visualization, Machine Learning, IT operations, and automation. My technical toolkit includes Python, Big-Data technologies, Power-BI, cloud operations, middleware, and scripting. Fueled by a passion for uncovering data-driven solutions, I am actively seeking opportunities within the US, aiming to leverage my extensive experience and ongoing education in the dynamic field of Data Science.
 ---
 
 ### 🛠️ Skills
