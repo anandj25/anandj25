@@ -15,11 +15,11 @@ I am a driven Data Science professional, currently enriching my expertise with a
 ### 🛠️ **Skills**
 
 - **Core Competencies:** Data Analysis, Data Modeling, Machine Learning, Data Mining, Statistical Analysis, ETL.
-- **Programming Languages:** SQL (MS SQL, MySQL), Python (NumPy, Pandas, PySpark, Scikit-Learn, TensorFlow, Keras).
-- **Data Visualization:** Power BI (including Power Query, DAX), Tableau, Alteryx.
-- **Cloud Platforms:** AWS (S3, AKS, Glue), Google Cloud Platform.
+- **Programming Languages:** SQL (MS SQL, MYSQL, PostgreSQL), Python (NumPy, Pandas, PySpark, , TensorFlow, Keras), R.
+- **Data Visualization:** Power BI (Power Query, DAX, Data Modelling), Tableau, Alteryx, AWS QuickSight.
+- **Cloud Platforms:** AWS (S3, Lambda, LEX, AKS, Api Gateway, Glue, Athena, Redshift), Azure, GCP.
 - **Development & Operations:** Agile Methodologies, SDLC, IT Operations, Linux.
-- **Software and Tools:** SSIS, Google AI Studio, ServiceNow, Jira.
+- **Software and Tools:** SSIS, SAS, Google AI Studio, Microsoft Office Suite (Advanced Excel), ServiceNow, Jira.
 
 ---
 
