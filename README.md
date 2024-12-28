@@ -1,6 +1,6 @@
 # Anand Jha
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/anandjha25) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/anandj25) 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/anandj25) 
 [![Email](https://img.shields.io/badge/Email-anandjha@umich.edu-red)](mailto:anandjha@umich.edu)
 
@@ -77,7 +77,7 @@ _Graduation Year: 2017_
 ### 📫 **Contact Me**
 
 - **Email:** [anandjha@umich.edu](mailto:anandjha@umich.edu)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/anandjha25)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/anandj25)
 - **GitHub:** [Follow me](https://github.com/anandj25)
 
 ---
