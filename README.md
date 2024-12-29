@@ -44,7 +44,7 @@ _March 2019 – August 2019_
 
 #### University of Michigan  
 **MS in Data Science**  
-_GPA: 3.90 | Expected Graduation: 2024_
+_GPA: 3.95 | Expected Graduation: 2025_
 
 #### Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV)  
 **BTech in Computer Science**  
