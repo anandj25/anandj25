@@ -52,16 +52,6 @@ _Graduation Year: 2017_
 
 ---
 
-### 💻 **Projects**
-
-- **Predictive Model for Heart Stroke Identification:** Developed a machine learning model with a 95.2% accuracy for early diagnosis of heart stroke.
-- **Power BI Dashboards for Bike Manufacturer:** Created dashboards to optimize sales tracking and inventory management.
-- **Product Recommendation System:** Processed 8 million Amazon data rows with Spark, achieving an RMSE of 0.13.
-- **Customer Churn Prediction:** Achieved 87% accuracy using Python and Tableau for telecom dataset analysis.
-- **Chatbot for University of Michigan:** Increased user interaction by 15% with a chatbot leveraging the Gemini API and Python.
-
----
-
 ### 🎖️ **Certifications**
 
 - Microsoft Certified AZ-900 Professional
