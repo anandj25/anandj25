@@ -1,4 +1,4 @@
-# Anand Jha
+# Anand Jha | Data Science | University of Michigan | Ex-Accenture
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/anandj25) 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/anandj25) 
