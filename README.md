@@ -7,13 +7,13 @@
 
 ---
 
-### 👨‍🎓 **About Me**
+## 👨‍🎓 **About Me**
 
 I am a driven Data Science professional, currently enriching my expertise with a Master of Science in Data Science from the University of Michigan-Dearborn. With a rich background of 4 years at Accenture, I've led analytical initiatives and executed complex data projects, demonstrating proficiency in Database Management, Data Analytics, Visualization, Machine Learning, IT operations, and automation. My technical toolkit includes Python, Big-Data technologies, Power-BI, Cloud Operations, Middleware, and Scripting. Fueled by a passion for uncovering data-driven solutions, I am actively seeking opportunities within the US, aiming to leverage my extensive experience and ongoing education in the dynamic field of Data Science.
 
 ---
 
-### 📂 Projects
+## 📂 Projects
 
 ### 🎥 [YouTube Analytics on AWS](https://github.com/anandj25/YouTube-Analytics-AWS)
 Developed a cloud-based YouTube analytics platform using AWS services such as S3, Glue, Lambda, and QuickSight to analyze trends, visualize data, and optimize ad placements.
@@ -56,7 +56,7 @@ Implemented a deep learning model combining CNN and LSTM to generate captions fo
 ---
 
 
-### 🛠️ **Skills**
+## 🛠️ **Skills**
 
 
 | **Category**              | **Details**                                                                                           |
@@ -71,7 +71,7 @@ Implemented a deep learning model combining CNN and LSTM to generate captions fo
 
 ---
 
-### 💼 **Professional Experience**
+## 💼 **Professional Experience**
 
 #### Accenture – Infra Business Analyst  
 _August 2019 – July 2023_  
@@ -88,7 +88,7 @@ _March 2019 – August 2019_
 
 ---
 
-### 🎓 **Education**
+## 🎓 **Education**
 
 #### University of Michigan  
 **MS in Data Science**  
@@ -100,7 +100,7 @@ _GPA: 3.52 | Graduation Year: 2017_
 
 ---
 
-### 🎖️ **Certifications**
+## 🎖️ **Certifications**
 
 - Microsoft Certified AZ-900 Professional
 - Power BI for Business Intelligence
@@ -112,7 +112,7 @@ _GPA: 3.52 | Graduation Year: 2017_
 
 ---
 
-### 📫 **Contact Me**
+## 📫 **Contact Me**
 
 - **Email:** [anandjha@umich.edu](mailto:anandjha@umich.edu)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/anandj25)
@@ -120,4 +120,4 @@ _GPA: 3.52 | Graduation Year: 2017_
 
 ---
 
-### 📄 [Download My Resume](https://github.com/anandj25/Portfolio/tree/main/Resume)
+## 📄 [Download My Resume](https://github.com/anandj25/Portfolio/tree/main/Resume)
