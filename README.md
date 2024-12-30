@@ -14,24 +14,16 @@ I am a driven Data Science professional, currently enriching my expertise with a
 
 ### 🛠️ **Skills**
 
-## 🛠️ Skills
 
-| **Category**              | **Details**                                                                                                                                                                                                                         |
-|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Core Competencies**      | ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Expert-green) ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-Expert-blue) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Expert-orange) ![Data Mining](https://img.shields.io/badge/Data%20Mining-Expert-red) ![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-Advanced-purple) ![ETL](https://img.shields.io/badge/ETL-Advanced-yellow) |
-| **Programming Languages**  | ![SQL](https://img.shields.io/badge/SQL-Expert-blue) ![MS SQL](https://img.shields.io/badge/MS%20SQL-Advanced-green) ![MySQL](https://img.shields.io/badge/MySQL-Advanced-orange) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-purple) ![Python](https://img.shields.io/badge/Python-Expert-green) ![NumPy](https://img.shields.io/badge/NumPy-Advanced-blue) ![Pandas](https://img.shields.io/badge/Pandas-Advanced-orange) ![PySpark](https://img.shields.io/badge/PySpark-Advanced-yellow) ![TensorFlow](https://img.shields.io/badge/TensorFlow-Expert-red) ![Keras](https://img.shields.io/badge/Keras-Expert-blue) ![R](https://img.shields.io/badge/R-Advanced-purple) |
-| **Data Visualization**     | ![Power BI](https://img.shields.io/badge/Power%20BI-Expert-blue) ![Power Query](https://img.shields.io/badge/Power%20Query-Advanced-green) ![DAX](https://img.shields.io/badge/DAX-Advanced-purple) ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-Advanced-yellow) ![Tableau](https://img.shields.io/badge/Tableau-Expert-orange) ![Alteryx](https://img.shields.io/badge/Alteryx-Advanced-red) ![AWS QuickSight](https://img.shields.io/badge/AWS%20QuickSight-Advanced-green) |
-| **Cloud Platforms**        | ![AWS](https://img.shields.io/badge/AWS-Expert-blue) ![S3](https://img.shields.io/badge/S3-Advanced-green) ![Lambda](https://img.shields.io/badge/Lambda-Advanced-purple) ![LEX](https://img.shields.io/badge/LEX-Advanced-orange) ![AKS](https://img.shields.io/badge/AKS-Advanced-yellow) ![API Gateway](https://img.shields.io/badge/API%20Gateway-Advanced-red) ![Glue](https://img.shields.io/badge/Glue-Advanced-blue) ![Athena](https://img.shields.io/badge/Athena-Advanced-green) ![Redshift](https://img.shields.io/badge/Redshift-Advanced-orange) ![Azure](https://img.shields.io/badge/Azure-Advanced-purple) ![GCP](https://img.shields.io/badge/GCP-Advanced-yellow) |
-| **Development & Operations** | ![Agile Methodologies](https://img.shields.io/badge/Agile%20Methodologies-Advanced-blue) ![SDLC](https://img.shields.io/badge/SDLC-Advanced-green) ![IT Operations](https://img.shields.io/badge/IT%20Operations-Advanced-purple) ![Linux](https://img.shields.io/badge/Linux-Expert-orange) |
-| **Software and Tools**     | ![SSIS](https://img.shields.io/badge/SSIS-Advanced-blue) ![SAS](https://img.shields.io/badge/SAS-Advanced-purple) ![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-Advanced-red) ![Microsoft Office Suite](https://img.shields.io/badge/Microsoft%20Office%20Suite-Advanced-green) ![Excel](https://img.shields.io/badge/Advanced%20Excel-Expert-orange) ![ServiceNow](https://img.shields.io/badge/ServiceNow-Advanced-yellow) ![Jira](https://img.shields.io/badge/Jira-Advanced-red) |
+| **Category**              | **Details**                                                                                           |
+|---------------------------|-------------------------------------------------------------------------------------------------------|
+| **Core Competencies**      | Data Analysis, Data Modeling, Machine Learning, Data Mining, Statistical Analysis, ETL              |
+| **Programming Languages**  | SQL (MS SQL, MySQL, PostgreSQL), Python (NumPy, Pandas, PySpark, TensorFlow, Keras), R               |
+| **Data Visualization**     | Power BI (Power Query, DAX, Data Modeling), Tableau, Alteryx, AWS QuickSight                        |
+| **Cloud Platforms**        | AWS (S3, Lambda, LEX, AKS, API Gateway, Glue, Athena, Redshift), Azure, GCP                         |
+| **Development & Operations** | Agile Methodologies, SDLC, IT Operations, Linux                                                   |
+| **Software and Tools**     | SSIS, SAS, Google AI Studio, Microsoft Office Suite (Advanced Excel), ServiceNow, Jira              |
 
-
-- **Core Competencies:** Data Analysis, Data Modeling, Machine Learning, Data Mining, Statistical Analysis, ETL.
-- **Programming Languages:** SQL (MS SQL, MYSQL, PostgreSQL), Python (NumPy, Pandas, PySpark, , TensorFlow, Keras), R.
-- **Data Visualization:** Power BI (Power Query, DAX, Data Modelling), Tableau, Alteryx, AWS QuickSight.
-- **Cloud Platforms:** AWS (S3, Lambda, LEX, AKS, Api Gateway, Glue, Athena, Redshift), Azure, GCP.
-- **Development & Operations:** Agile Methodologies, SDLC, IT Operations, Linux.
-- **Software and Tools:** SSIS, SAS, Google AI Studio, Microsoft Office Suite (Advanced Excel), ServiceNow, Jira.
 
 ---
 
