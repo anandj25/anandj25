@@ -31,12 +31,12 @@ _August 2019 – July 2023_
 - Designed and maintained SQL-based ETL packages using SSIS, developing custom scripts and jobs to automate data extraction, transformation, and loading, optimizing the ETL process by 15%, ensuring high efficiency and accuracy.
 - Utilized Python to clean, transform large datasets, and automate workflows, achieving substantial efficiency gains.
 - Devised data-driven forecasting models that accurately projected incident volumes, optimizing resource allocation.  
-- Implemented Python automation scripts, saving $40k annually.
+- Implemented Python automation scripts that led to $40k annual savings and reduced filesystem alerts by 95%.
 
 #### PeopleClick Tech Solutions – Data Analytics Intern  
 _March 2019 – August 2019_  
-- Engineered health-tracking dashboards, enhancing system reliability by 15%.  
-- Applied SQL and Python for data-driven decision-making.
+- Engineered health-tracking dashboards for digital platforms, boosting system reliability and performance by 15%.  
+- Applied SQL and Python machine learning libraries to perform analytics, fostering data-driven decision-making.
 
 ---
 
@@ -48,7 +48,7 @@ _GPA: 3.95 | Expected Graduation: 2025_
 
 #### Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV)  
 **BTech in Computer Science**  
-_Graduation Year: 2017_
+_GPA: 3.52 | Graduation Year: 2017_
 
 ---
 
