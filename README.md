@@ -15,42 +15,42 @@ I am a driven Data Science professional, currently enriching my expertise with a
 
 ### 📂 Projects
 
-### [YouTube Analytics on AWS](https://github.com/anandj25/YouTube-Analytics-AWS)
+### 🎥 [YouTube Analytics on AWS](https://github.com/anandj25/YouTube-Analytics-AWS)
 Developed a cloud-based YouTube analytics platform using AWS services such as S3, Glue, Lambda, and QuickSight to analyze trends, visualize data, and optimize ad placements.
 
 ---
 
-### [Healthcare Fraud Detection](https://github.com/anandj25/Healthcare-Fraud)
+### 🏥 [Healthcare Fraud Detection](https://github.com/anandj25/Healthcare-Fraud)
 Built machine learning models to detect and predict fraudulent activities in healthcare claims, achieving high accuracy in fraud classification.
 
 ---
 
-### [Heart Stroke Prediction](https://github.com/anandj25/Heart-Stroke-Prediction)
+### ❤️‍🩹 [Heart Stroke Prediction](https://github.com/anandj25/Heart-Stroke-Prediction)
 Developed a predictive model to identify individuals at risk of stroke using statistical and machine learning techniques.
 
 ---
 
-### [Photo Album Management on AWS](https://github.com/anandj25/Photo-Album-AWS)
+### 📸 [Photo Album Management on AWS](https://github.com/anandj25/Photo-Album-AWS)
 Implemented a photo album management system leveraging AWS services for storage and serverless functions.
 
 ---
 
-### [Smart Door Authentication System on AWS](https://github.com/anandj25/Smart-Door-Authentication-on-AWS)
+### 🚪 [Smart Door Authentication System on AWS](https://github.com/anandj25/Smart-Door-Authentication-on-AWS)
 Designed a smart authentication system using AWS services such as Rekognition, DynamoDB, and Lambda to enhance home security.
 
 ---
 
-### [Telecom Churn Prediction](https://github.com/anandj25/Telecom-Churn)
+### 📞 [Telecom Churn Prediction](https://github.com/anandj25/Telecom-Churn)
 Predicted customer churn in the telecom industry using machine learning models with a focus on interpretability and high accuracy.
 
 ---
 
-### [Amazon Recommendation System](https://github.com/anandj25/Amazon-Recommendation-System)
+### 🛒 [Amazon Recommendation System](https://github.com/anandj25/Amazon-Recommendation-System)
 Built a recommendation system using collaborative filtering and matrix factorization techniques to enhance user experience on e-commerce platforms.
 
 ---
 
-### [Image Caption Generator](https://github.com/anandj25/Image-Caption-Generator)
+### 🖼️ [Image Caption Generator](https://github.com/anandj25/Image-Caption-Generator)
 Implemented a deep learning model combining CNN and LSTM to generate captions for images with high accuracy.
 
 ---
