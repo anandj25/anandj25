@@ -72,4 +72,4 @@ _Graduation Year: 2017_
 
 ---
 
-### 📄 [Download My Resume](https://github.com/anandj25/Portfolio/blob/main/Anand_Jha_Resume.docx)
+### 📄 [Download My Resume](https://github.com/anandj25/Portfolio/tree/main/Resume)
