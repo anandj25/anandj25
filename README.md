@@ -2,8 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/anandj25) 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/anandj25) 
-[![Email](https://img.shields.io/badge/Email-anandjha@umich.edu-pink)](mailto:anandjha@umich.edu)
- [![Download My Resume](https://img.shields.io/badge/Resume-Download-yellow)](https://github.com/anandj25/Portfolio/tree/main/Resume)
+[![Email](https://img.shields.io/badge/Email-anandjha@umich.edu-green)](mailto:anandjha@umich.edu)
+[![Download My Resume](https://img.shields.io/badge/Resume-Download-yellow)](https://github.com/anandj25/Portfolio/tree/main/Resume)
 
 ---
 
