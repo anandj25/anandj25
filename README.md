@@ -13,12 +13,6 @@ I am a driven Data Science professional, currently enriching my expertise with a
 
 ---
 
-
-
-### [Heart Stroke Prediction](https://github.com/anandj25/Heart-Stroke-Prediction)
-![Jupyter Notebook](https://img.shields.io/badge/Language-Jupyter%20Notebook-orange) ![Updated](https://img.shields.io/badge/Updated-3%20hours%20ago-green)  
-Developed a predictive model to identify individuals at risk of stroke using statistical and machine learning techniques.
-
 ---
 ### 📂 Projects
 
@@ -61,7 +55,7 @@ Built a recommendation system using collaborative filtering and matrix factoriza
 Implemented a deep learning model combining CNN and LSTM to generate captions for images with high accuracy.
 
 ---
----
+
 
 ### 🛠️ **Skills**
 
