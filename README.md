@@ -13,7 +13,6 @@ I am a driven Data Science professional, currently enriching my expertise with a
 
 ---
 
----
 ### 📂 Projects
 
 ### [YouTube Analytics on AWS](https://github.com/anandj25/YouTube-Analytics-AWS)
