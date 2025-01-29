@@ -20,7 +20,7 @@ Developed a cloud-based YouTube analytics platform using AWS services such as S3
 
 ---
 
-### 🏥 [NewYork Mortgage Trends](https://github.com/anandj25/HDMA-Loan-Dashboard)
+### 🏡 [NewYork Mortgage Trends](https://github.com/anandj25/HDMA-Loan-Dashboard)
 Built machine learning models to detect and predict fraudulent activities in healthcare claims, achieving high accuracy in fraud classification.
 
 ---
