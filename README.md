@@ -16,9 +16,15 @@ I am a driven Data Science professional, currently enriching my expertise with a
 ## 📂 Projects
 
 ### 🎥 [YouTube Analytics on AWS](https://github.com/anandj25/YouTube-Analytics-AWS)
-Developed a cloud-based YouTube analytics platform using AWS services such as S3, Glue, Lambda, and QuickSight to analyze trends, visualize data, and optimize ad placements.
+Developed a cloud-based YouTube analytics platform using AWS services such as S3, Glue, Lambda, and QuickSight to analyze trends, visualize data, and optimize ad placements
 
 ---
+
+### 🏡 [ETL and Analytics on Azure](https://github.com/anandj25/Azure-ETL-Analytics)
+Created end-to-end data engineering and analytics pipeline using Microsoft Azure & Power BI, and applied to the Tokyo Olympics dataset.The goal was to ingest, transform, model, and visualize Olympic data to extract meaningful insights.
+
+---
+
 
 ### 🏡 [NewYork Mortgage Trends](https://github.com/anandj25/HDMA-Loan-Dashboard)
 An interactive Power BI dashboard to analyze loan approvals, denials, DTI impact, racial & income disparities, using DAX, SQL, and Python for insights 
